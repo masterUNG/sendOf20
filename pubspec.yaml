@@ -97,6 +97,9 @@ flutter:
           weight: 800
         - asset: assets/fonts/Poppins-Black.ttf
           weight: 900
+    - family: Prompt
+      fonts:
+        - asset: assets/fonts/Prompt-Regular.ttf
   #   - family: Trajan Pro
   #     fonts:
   #       - asset: assets/fonts/TrajanPro.ttf

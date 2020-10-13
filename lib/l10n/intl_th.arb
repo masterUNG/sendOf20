@@ -196,7 +196,7 @@
   "visa_card": "บัตรวีซ่า",
   "mastercard": "มาสเตอร์การ์ด",
   "paypal": "PayPal",
-  "pay_on_pickup": "จ่ายเมื่อรถกระบะ",
+  "pay_on_pickup": "จ่ายเมื่อไปรับอาหาร",
   "click_to_pay_with_your_visa_card": "คลิกเพื่อชำระเงินด้วยบัตรวีซ่าของคุณ",
   "click_to_pay_with_your_mastercard": "คลิกเพื่อชำระเงินด้วย MasterCard ของคุณ",
   "click_to_pay_with_your_paypal_account": "คลิกเพื่อชำระเงินด้วยบัญชี PayPal ของคุณ",

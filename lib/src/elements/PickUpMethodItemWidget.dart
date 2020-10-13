@@ -72,7 +72,7 @@ class _PickUpMethodItemState extends State<PickUpMethodItem> {
                       crossAxisAlignment: CrossAxisAlignment.start,
                       children: <Widget>[
                         Text(
-                          widget.paymentMethod.name,
+                          'จ่ายเงินที่ร้าน',
                           overflow: TextOverflow.ellipsis,
                           maxLines: 2,
                           style: Theme.of(context).textTheme.subtitle1,
